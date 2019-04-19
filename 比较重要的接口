@@ -1,0 +1,12 @@
+比较重要的接口
+
+/hotel/detail/check_hotel_book/v1 验证酒店房间是否可预订
+/hotel/detail/get_detail_dynamic_info/v3 获取酒店详情动态信息 
+/hotel/detail/get_detail_info/v1 获取酒店的详细信息 
+/hotel/home/get_hotel_home_list/v1 获取酒店首页信息流数据 
+/hotel/home/get_hotel_home_top_ad/v2 获取酒店首页顶部广告数据
+/hotel/hotels/get_hotel_list/v2 获取酒店列表
+/hotel/hotels/get_hotel_list_price/v1 获取酒店价格列表 
+/hotel/hotels/get_map_hotel_list/v2 获取地图酒店列表
+/hotel/search/get_suggestion_list_in_home/v1 获取酒店首页搜索suggestion 
+/hotel/search/get_suggestion_list_in_hotel_list/v1 获取酒店列表搜索suggestion 
